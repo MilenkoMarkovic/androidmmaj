@@ -1,3 +1,3 @@
 # androidmmaj
 
-App center example,try to cathc failed build.
+App center example,try to catch failed build.
